@@ -1,5 +1,9 @@
 # LISTRANSFORM
 
+## How to install:
+
+    npm i listransform
+
 ## Contains 2 functions, transformList and compareLists.
 
 ### transformList contains most operations you would want to make to your list, like:
